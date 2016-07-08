@@ -40,4 +40,8 @@ ext {
     daggerVersion = '2.0.1'
     glideVersion = '3.6.1'
     jsr250Version = '1.0'
+
+    robolectricVersion = '3.0'
+    mockitoVersion = '1.10.19'
+    junitVersion = '4.12'
 }
